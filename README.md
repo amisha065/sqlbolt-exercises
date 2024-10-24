@@ -1,3 +1,3 @@
 # sqlbolt-exercises
 
-`SELECT * FROM users;'
+`SELECT * FROM users;`
