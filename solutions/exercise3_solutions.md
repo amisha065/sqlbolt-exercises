@@ -1,5 +1,7 @@
 # SQL Lesson 3: Queries with constraints (Pt. 2)
 
+## Problem Statement
+
 Now in previous exerise we learnt about the `WHERE` clause and how it works in conjunction with `BETWEEN`, `IN` etc. However, as we can see it fails with substring matching or when we want to select something regardless of case. And that's where there are somemore operators that come to the rescue!
 
 # Concept
