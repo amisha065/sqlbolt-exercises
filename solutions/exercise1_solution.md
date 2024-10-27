@@ -1,8 +1,8 @@
-# Exercise 1: SQL SELECT Queries
+# SQL Lesson 1: SELECT queries 101
 
 ## Problem Statement
 
-This exercise focuses on retrieving data from the `movies` table in an SQLite database. You are required to use `SELECT` queries to extract different sets of information.
+This exercise focuses on retrieving data using `SELECT` queries to extract different sets of information.
 
 ## Explanation
 To retrieve data from a SQL database, we need to write SELECT statements, which are often colloquially refered to as *queries*.
@@ -15,7 +15,7 @@ SELECT column, another_column, …
 FROM mytable;
 ```
 
-### Tasks
+## Tasks
 
 1. Find the `title` of each film.
 2. Find the `director` of each film.
@@ -24,8 +24,6 @@ FROM mytable;
 5. Find all the information about each film.
 
 ## Database
-
-We will be using a database with data about some of Pixar's classic movies for most of our exercises. This first exercise will only involve the Movies table, and the default query below currently shows all the properties of each movie. To continue onto the next lesson, alter the query to find the exact information we need for each task.
 
 The database used for this exercise is [`sqlbolt_movies.db`](../databases/sqlbolt_movies.db).
 

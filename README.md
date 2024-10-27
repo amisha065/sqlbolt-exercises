@@ -9,7 +9,7 @@ Each exercise involves solving SQL challenges based on the tables inside the `da
 ## Repository Structure
 
 - **databases/**: Contains the SQLite database files used for practicing the exercises.
-- **solutions/**: Contains Markdown files with the task, explanations and solutions for each exercise.
+- **solutions/**: Contains Markdown files(`.md`) with the task, explanations and solutions for each exercise.
 - **queries/**:  Contains `.sql` files with queries for each exercise for direct execution locally.
 - **setup.md**: Contains detailed instructions on how to set up the environment to run the exercises locally on VSCode.
 
