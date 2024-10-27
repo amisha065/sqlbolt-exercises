@@ -15,13 +15,7 @@ SELECT column, another_column, …
 FROM mytable;
 ```
 
-## Tasks
 
-1. Find the `title` of each film.
-2. Find the `director` of each film.
-3. Find the `title` and `director` of each film.
-4. Find the `title` and `year` of each film.
-5. Find all the information about each film.
 
 ## Database
 
@@ -36,6 +30,14 @@ The database used for this exercise is [`sqlbolt_movies.db`](../databases/sqlbol
 |5|	Finding Nemo|	Andrew Stanton|	2003|	107|
 |6|	The Incredibles|	Brad Bird|	2004|	116|
 |and so on...|
+
+## Tasks
+
+1. Find the `title` of each film.
+2. Find the `director` of each film.
+3. Find the `title` and `director` of each film.
+4. Find the `title` and `year` of each film.
+5. Find all the information about each film.
 
 ## Solutions
 
