@@ -1,7 +1,6 @@
-#[SQL Lesson 6: Multi-table queries with JOINs
-](https://sqlbolt.com/lesson/select_queries_with_joins)
+# [SQL Lesson 6: Multi-table queries with JOINs](https://sqlbolt.com/lesson/select_queries_with_joins)
 
-Up to now, we've been working with a single table, but entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization[1](https://en.wikipedia.org/wiki/Database_normalization).
+Up to now, we've been working with a single table, but entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization[[1](https://en.wikipedia.org/wiki/Database_normalization)].
 
 ## Database normalization
 
@@ -69,7 +68,7 @@ LIMIT num_limit OFFSET num_offset;
 
 The INNER JOIN is a process that matches rows from the first table and the second table which have the same key (as defined by the ON constraint) to create a result row with the combined columns from both tables. After the tables are joined, the other clauses we learned previously are then applied.
 
-    ## Tasks    
+## Tasks    
 
 We've added a new table `boxoffice` to the [`sqlbolt_movies.db`](../databases/sqlbolt_movies.db) database so we try practice some joins. 
 
